@@ -4,7 +4,9 @@
 <template>
     <div class="container">
         <img src="../assets/access-denied.png" alt="">
+        <h4>git cong cu!</h4>
         <h4>Không thể truy cập vào trang !</h4>
+       <h4>amend git cong cu!</h4>
     </div>
 </template>
 <style scoped>
